@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-08-07T19:23:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-08-07T19:20:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Estudos",
+      "price": 500,
+      "createdAt": "2023-08-07T20:55:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 5600,
+      "type": "income",
+      "createdAt": "2023-08-08T01:39:10.067Z",
+      "id": 4
+    },
+    {
+      "description": "Outback",
+      "category": "Alimentação",
+      "price": 350,
+      "type": "outcome",
+      "createdAt": "2023-08-08T01:39:24.931Z",
+      "id": 5
+    },
+    {
+      "description": "Baby Beef",
+      "category": "Alimentação",
+      "price": 800,
+      "type": "outcome",
+      "createdAt": "2023-08-08T01:58:43.170Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "category": "Venda",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-08-08T02:43:37.039Z",
+      "id": 7
+    }
+  ]
+}
